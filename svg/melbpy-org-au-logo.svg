@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="61.60804mm"
+   height="9.3531199mm"
+   viewBox="0 0 61.60804 9.3531199"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="melbpy-org-au-logo.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.927971"
+     inkscape:cx="72.096521"
+     inkscape:cy="41.494401"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="261.19925"
+       y="373.32379"
+       width="547.16302"
+       height="239.2392"
+       id="rect30" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-117.83683,-110.59583)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.15646916,0,0,0.15646916,52.976901,52.217145)"
+       id="text27"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:64px;line-height:0.88;font-family:Lato;-inkscape-font-specification:'Lato, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-decoration-color:#000000;letter-spacing:-0.1px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect30);display:inline;fill:#485a6c;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="203.86282"
+       y="0"><tspan
+         x="411.16216"
+         y="421.00422"
+         id="tspan7"><tspan
+           style="fill:#73d216"
+           id="tspan3">melbpy</tspan><tspan
+           style="font-weight:300;-inkscape-font-specification:'Lato, Light';fill:#888a85"
+           id="tspan5">.org.au</tspan><tspan
+           style="fill:#babdb6"
+           id="tspan6"> </tspan></tspan></text>
+  </g>
+</svg>
